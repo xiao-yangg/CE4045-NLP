@@ -3,11 +3,11 @@ Twitter Tweets Dataset on Apple Consumer Sentiments
 
 Use *url* to obtain
 
-**Combined Data**: intrepret test dataset as overall dataset for training and testing
+* **Combined Data**: intrepret test dataset as overall dataset for training and testing
 
-**Training Data**: taken from Kaggle (source: https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset)
+* **Training Data**: taken from Kaggle (source: https://www.kaggle.com/datasets/yasserh/>twitter-tweets-sentiment-dataset)
 
-**Test Data**: scraped tweets using Twitter API with Apple hashtags on ```26 September 2022```
+* **Test Data**: scraped tweets using Twitter API with Apple hashtags on ```26 September 2022```
 
 For example:
 
