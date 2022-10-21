@@ -7,7 +7,7 @@ Use *url* to obtain
 
 **Training Data**: taken from Kaggle (source: https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset)
 
-**Test Data**: scraped tweets using Apple hashtags on ```26 September 2022```
+**Test Data**: scraped tweets using Twitter API with Apple hashtags on ```26 September 2022```
 
 For example:
 
