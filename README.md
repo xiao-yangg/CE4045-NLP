@@ -5,7 +5,7 @@ Use *url* to obtain
 
 **Combined Data**: intrepret test dataset as overall dataset for training and testing
 
-**Training Data**: 
+**Training Data**: taken from Kaggle (source: https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset)
 
 **Test Data**: scraped tweets using Apple hashtags on ```26 September 2022```
 
