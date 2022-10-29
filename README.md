@@ -5,9 +5,11 @@ Use *url* to obtain
 
 * **Combined Data**: intrepret test dataset as overall dataset for training and testing
 
-* **Training Data**: taken from Kaggle (source: https://www.kaggle.com/datasets/yasserh/>twitter-tweets-sentiment-dataset)
+* **Training Data**: VADER label
 
-* **Test Data**: scraped tweets using Twitter API with Apple hashtags on ```26 September 2022```
+* **Test Data**: Manual labl
+
+Scraped tweets using Twitter API with Apple hashtags on ```26 September 2022```
 
 For example:
 
