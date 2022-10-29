@@ -7,7 +7,7 @@ Use *url* to obtain
 
 * **Training Data**: VADER label
 
-* **Test Data**: Manual labl
+* **Test Data**: Manual label
 
 Scraped tweets using Twitter API with Apple hashtags on ```26 September 2022```
 
